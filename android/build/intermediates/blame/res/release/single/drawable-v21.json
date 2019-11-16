@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/haoqiangchai/Sites/git/oh_name2/oh_name/node_modules/react-native-yunpeng-alipay/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/haoqiangchai/.gradle/caches/transforms-2/files-2.1/7cbfdba4df48a82c87248bf16ee46c98/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/haoqiangchai/Sites/git/oh_name2/oh_name/node_modules/react-native-yunpeng-alipay/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/haoqiangchai/.gradle/caches/transforms-2/files-2.1/7cbfdba4df48a82c87248bf16ee46c98/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/haoqiangchai/Sites/git/oh_name2/oh_name/node_modules/react-native-yunpeng-alipay/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/haoqiangchai/.gradle/caches/transforms-2/files-2.1/7cbfdba4df48a82c87248bf16ee46c98/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/haoqiangchai/Sites/git/oh_name2/oh_name/node_modules/react-native-yunpeng-alipay/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/haoqiangchai/.gradle/caches/transforms-2/files-2.1/130e32c185f087cc87dfa3f6c66b9873/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/haoqiangchai/Sites/git/oh_name2/oh_name/node_modules/react-native-yunpeng-alipay/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/haoqiangchai/.gradle/caches/transforms-2/files-2.1/7cbfdba4df48a82c87248bf16ee46c98/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/haoqiangchai/Sites/git/oh_name2/oh_name/node_modules/react-native-yunpeng-alipay/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/haoqiangchai/.gradle/caches/transforms-2/files-2.1/7cbfdba4df48a82c87248bf16ee46c98/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
